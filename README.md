@@ -37,7 +37,7 @@ Clone the repository unto your local machine cd to the folder.
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Friendly-Chat-Firebase/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Library-JS-FIREBASE/issues).
 
 ## Show your support
 
